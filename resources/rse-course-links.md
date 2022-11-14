@@ -2,6 +2,12 @@
 
 This document provides links to course materials for Turing's Research Software Engineering course. 
 
+
+### Pre-requisites
+It is helpful to have experience in at least one programming language (for example C++, C, Fortran, Python, Ruby, Matlab or R) but this is not a strict requirement.
+
+Experience with version control and/or the Unix shell, for instance from Software Carpentry, would also be helpful.
+
 ### Training schedule 
 
 The training schedule can be accessed here: [https://hackmd.io/wGRDdpOJTOe-a3PiUP-s5g?view](https://hackmd.io/wGRDdpOJTOe-a3PiUP-s5g?view)
